@@ -2,7 +2,7 @@
 
 Live Site: <https://dee1985.github.io/html-basic-css/>
 
-Landing page: ![screen clip of home screen](landing.png)
+Landing page (black bar at the top of the image is from the screen clipping): ![screen clip of home screen](landing.png)
 
 Description and Usage: Using only HTML and CSS, this site is a mock representation of a landing page and can be used as a template.
 
